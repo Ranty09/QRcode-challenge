@@ -1,3 +1,3 @@
 # QRcode-challenge
 My first challenge on the Front End Mentor
-![QRcodeimageresult](https://github.com/Ranty09/QRcode-challenge/assets/132301909/2c82d8fe-cec4-40ab-b97a-93a1c352dd7e)
+![QR code new sc](https://github.com/Ranty09/QRcode-challenge/assets/132301909/5c617b95-3bbe-48de-9c26-1d24aca1938a)
